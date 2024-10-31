@@ -24,7 +24,7 @@ const Hero = ()  => {
 />
       </h1>
       <p className="mb-8 leading-relaxed">
-      I'm Amaan Iqbal, an 18-year-old ICS (Computer Science) student at APSACS with a passion for technology. Currently, I'm learning AI, Metaverse, and Web 3 at GIAIC to build skills in modern digital innovation. I enjoy exploring new tech and developing projects that expand my understanding of the future of web development.
+      I&apos;m Amaan Iqbal, an 18-year-old ICS (Computer Science) student at APSACS with a passion for technology. Currently, I&apos;m learning AI, Metaverse, and Web 3 at GIAIC to build skills in modern digital innovation. I enjoy exploring new tech and developing projects that expand my understanding of the future of web development.
       </p>
       <div className="flex justify-center">
         <Link href={"#contact"}>

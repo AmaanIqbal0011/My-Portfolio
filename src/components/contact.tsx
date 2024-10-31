@@ -43,8 +43,9 @@ const Contact = () => {
         Contact Me
       </h2>
       <p className="leading-relaxed mb-5 text-gray-600">
-      Let's bring your ideas to life – reach out, and let's create something amazing together!
-      </p>
+  Let&apos;s bring your ideas to life – reach out, and let&apos;s create something amazing together!
+</p>
+
       <div className="relative mb-4">
         <label htmlFor="name" className="leading-7 text-sm text-gray-600">
           Name
