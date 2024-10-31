@@ -13,7 +13,7 @@ const Skill = () => {
         My Skills
       </h1>
       <h2 className="text-xs text-indigo-500 tracking-widest font-medium title-font mb-1 pt-5">
-      "Explore my skill set, showcasing expertise in front-end technologies and a keen ability to bring ideas to life through clean and functional design.
+      &quot;Explore my skill set, showcasing expertise in front-end technologies and a keen ability to bring ideas to life through clean and functional design.&quot;
       </h2>
     </div>
     <div className="flex flex-wrap -m-4">
